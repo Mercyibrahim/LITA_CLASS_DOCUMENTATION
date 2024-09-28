@@ -43,7 +43,7 @@ EDA Involved
 
 ### Data Analysis
 ---
-This is wherr we include basic lines of code or queries or even some of the DAX Expressions
+This is where we include basic lines of code or queries or even some of the DAX Expressions
 
 ```SQL
     SELECT * FROM TABLE1
