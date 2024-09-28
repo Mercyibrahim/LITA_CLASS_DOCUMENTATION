@@ -7,9 +7,11 @@ This Data Anaysis project aims to have an indepth knowldege on Data analysis.by 
 and PowerBI.
 
 ### BASICS OF DATA ANALYSIS
+---
 understanding Data Literacy, Data Generation, Data structure, Data Storage,Data analysis and statistics
 
 ### TOOLS USED
+---
 - Microsoft Excel [Download Here](https://www.microsoft.com)
   
    1. For Data cleaning
@@ -23,6 +25,7 @@ understanding Data Literacy, Data Generation, Data structure, Data Storage,Data 
 - GitHub For Portfolio Building
 
   ### Data Cleaning and Preparations
+  ---
   In the initial phase of 
 
   1. Data loading and Inspectation
@@ -46,3 +49,4 @@ This is wherr we include basic lines of code or queries or even some of the DAX 
     SELECT * FROM TABLE1
      WHERE CONDITION = TRUE
   ```
+
