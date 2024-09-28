@@ -52,3 +52,5 @@ This is where we include basic lines of code or queries or even some of the DAX 
 ### Data Visualisation
 
 
+![photo_2024-09-28_21-12-33](https://github.com/user-attachments/assets/377fd841-02ee-489e-8d98-f7c10db6193f)
+
