@@ -49,4 +49,6 @@ This is where we include basic lines of code or queries or even some of the DAX 
     SELECT * FROM TABLE1
      WHERE CONDITION = TRUE
   ```
+### Data Visualisation
+
 
