@@ -4,6 +4,10 @@
 
 [Data Analysis](#data-analysis)
 
+
+[Data cleaning and Preparation](#data-cleaningandpreparation)
+
+
 ---
 #### PROJECT OVERVIEW
 This Data Anaysis project aims to have an indepth knowldege on Data analysis.by using various modueles such as Ms Excel, MS SQL SERVER
